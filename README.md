@@ -1,2 +1,2 @@
-# web-fundamentals
+# web-fundamental
 Treinamento BIT
